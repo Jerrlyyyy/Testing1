@@ -45,7 +45,7 @@ const RegistrationForm = () => {
   return (
     <div className="registration-card">
       <div className="card-header">
-        <h2 className="card-title">Registration ForHellom</h2>
+        <h2 className="card-title">Registration NYANYA</h2>
       </div>
       <div className="card-content">
         {error && <div className="error-message">{error}</div>} {/* Display error message */}
